@@ -1,2 +1,2 @@
-# My-Journey-to-IT
+# My-Journey-to-ComputerScience
 a place to record
