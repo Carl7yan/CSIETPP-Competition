@@ -1,2 +1,3 @@
 # My-Journey-to-ComputerScience
-a place to record
+Learn how to use Github
+A place to record
