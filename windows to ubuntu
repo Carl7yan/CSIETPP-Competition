@@ -1,7 +1,0 @@
-download '.iso' and use rufus to move it into a USB
-back up the files in /C:/user/yanyi...
-restart the PC with constantly pressing F12 and enter BIOS setup
-click SATA Operator and switch RAID ON to AHCI
-click secure boot to make sure the secure boot enable is not checked
-again use F12 but choose the UEFI BOOT option which is the USB
-enter the setup of linux
