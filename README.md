@@ -1,4 +1,4 @@
-#  CSIETPP
+#  CSIETPP-Competition
 College Students' Innovative Entrepreneurial Training Plan Program
 
 ## My-Journey-to-ComputerScience
