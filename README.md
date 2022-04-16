@@ -6,23 +6,19 @@ College Students' Innovative Entrepreneurial Training Plan Program
 - There are some vital courses:
 1. Data Structure & Algorithms
 2. Programming Languages (Coding)
+3. Computer Networks
+4. Database Management
+5. Operating Systems
 
-Computer Networks
-Database Management
-Operating Systems
-Computer Architecture
 
-Mathematics(
-        Calculus
-        Linear Algebra
-        Probability
-        Statistics
-        Combinatorics
-        ...)
+6.Mathematics(Calculus:Advanced Mathematics.,Linear Algebra,Probability,Statistics,Combinatorics,Complex variables...)
 
-Advanced Mathematics
-Complex variables
-Fundamentals of Circuit Analysis
+
+- IC:
+1. Fundamentals of Circuit Analysis
+2. Signals and Systems
+3. Analog circuit
+4. Digital circuit
 
 -where to begin
 [Unix/Linux](https://www.tutorialspoint.com/unix/index.htm)
