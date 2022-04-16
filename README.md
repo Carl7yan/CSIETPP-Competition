@@ -4,8 +4,8 @@ College Students' Innovative Entrepreneurial Training Plan Program
 ## My-Journey-to-ComputerScience
 - It's my first project,so this is also a place in Github to record my journey.
 - There are some vital courses:
-Data Structure & Algorithms
-Programming Languages (Coding)
+1. Data Structure & Algorithms
+2. Programming Languages (Coding)
 
 Computer Networks
 Database Management
