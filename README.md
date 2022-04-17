@@ -14,3 +14,5 @@ Where to begin:
 2. [Unix/Linux](https://www.tutorialspoint.com/unix/index.htm)
 3. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
 4. python
+
+## Aritificial Intelligence
