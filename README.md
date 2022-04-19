@@ -8,6 +8,8 @@ There are some vital courses:
 1. Data Structure & Algorithms
 3. Computer Networks
 4. Database Management
+5. Software Engineering
+6. information security
 
 Where to begin:
 1. [# Operating System](https://www.tutorialspoint.com/operating_system/index.htm)
@@ -18,4 +20,4 @@ Where to begin:
 
 ## Aritificial Intelligence
 1. [machine learning](https://www.w3schools.com/python/python_ml_getting_started.asp)
-2. 
+2. [Object Detection](url)
