@@ -11,9 +11,10 @@ There are some vital courses:
 
 Where to begin:
 1. [# Operating System](https://www.tutorialspoint.com/operating_system/index.htm)
-2. [Unix/Linux](https://www.tutorialspoint.com/unix/index.htm)
-3. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
-4. python
+2. [linux for beginner](https://ryanstutorials.net/linuxtutorial/)
+3. [Unix/Linux](https://www.tutorialspoint.com/unix/index.htm)
+4. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
+5. python
 
 ## Aritificial Intelligence
 1. [machine learning](https://www.w3schools.com/python/python_ml_getting_started.asp)
