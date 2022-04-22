@@ -1,6 +1,10 @@
 #  CSIETPP-Competition
 College Students' Innovative Entrepreneurial Training Plan Program
 
+1. [machine learning](https://www.w3schools.com/python/python_ml_getting_started.asp)
+2. [Object Detection](url)
+
+
 ## My-Journey-to-ComputerScience
 As this is my very first project, it's like a GitHub blog to record my journey.
 
@@ -15,7 +19,3 @@ There are some vital courses:
 11. [Unix/Linux](https://www.tutorialspoint.com/unix/index.htm)
 12. [# linux for beginner](https://ryanstutorials.net/linuxtutorial/)
 13. [# Operating System](https://www.tutorialspoint.com/operating_system/index.htm) 
-
-## Aritificial Intelligence
-1. [machine learning](https://www.w3schools.com/python/python_ml_getting_started.asp)
-2. [Object Detection](url)
