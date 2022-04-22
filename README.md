@@ -10,7 +10,7 @@ There are some vital courses:
 4. Data Structure & Algorithms
 6. information security
 7. Database Management
-8. Python
+8. [Python](https://www.tutorialspoint.com/python/index.htm)
 10. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
 11. [Unix/Linux](https://www.tutorialspoint.com/unix/index.htm)
 12. [# linux for beginner](https://ryanstutorials.net/linuxtutorial/)
