@@ -2,7 +2,7 @@
 College Students' Innovative Entrepreneurial Training Plan Program
 
 ## My-Journey-to-ComputerScience
-As this is my very first project, it's also like a blog in Github to record my journey.
+As this is my very first project, it's like a GitHub blog to record my journey.
 
 There are some vital courses:
 1. Data Structure & Algorithms
