@@ -5,7 +5,7 @@ College Students' Innovative Entrepreneurial Training Plan Program
 2. [Object Detection](https://www.youtube.com/watch?v=yqkISICHH-U&ab_channel=NicholasRenotte)
 
 
-## My-Journey-to-ComputerScience
+## My-Journey-to-the digital world
 As this is my very first project, it's like a GitHub blog to record my journey.
 
 There are some vital courses:
