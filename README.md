@@ -5,13 +5,17 @@ College Students' Innovative Entrepreneurial Training Plan Program
 2. [Object Detection](https://www.youtube.com/watch?v=yqkISICHH-U&ab_channel=NicholasRenotte)
 
 
-## My-Journey-to-the digital world
+## Digital World
 As this is my very first project, it's like a GitHub blog to record my journey.
+Computer Science
+Information Technology
+
 
 There are some vital courses:
 1. Computer Networks
 3. Software Engineering
-4. Data Structure & Algorithms
+4. web developer
+5. Data Structure & Algorithms
 6. information security
 7. Database Management
 8. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
