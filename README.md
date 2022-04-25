@@ -15,10 +15,11 @@ There are some vital courses:
 1. Cybersecurity
 3. Software Engineering
 4. web developer
-5. Data Structure & Algorithms
-6. Computer Networks
-7. Database Management
-8. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
+5. Data Analytics
+6. Data Structure & Algorithms
+7. Computer Networks
+8. Database Management
+9. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
 10. [Python](https://www.tutorialspoint.com/python/index.htm)
 11. Unix/Linux: [[1](https://www.tutorialspoint.com/unix/index.htm)],[[2](https://ryanstutorials.net/linuxtutorial/)]
 13. Operating System:[[1](https://www.tutorialspoint.com/operating_system/index.htm)]
