@@ -20,5 +20,5 @@ There are some vital courses:
 7. Database Management
 8. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
 10. [Python](https://www.tutorialspoint.com/python/index.htm)
-11. Unix/Linux: [1](https://www.tutorialspoint.com/unix/index.htm),[2](https://ryanstutorials.net/linuxtutorial/)
+11. Unix/Linux: [[1](https://www.tutorialspoint.com/unix/index.htm)],[[2](https://ryanstutorials.net/linuxtutorial/)]
 13. Operating System:[1](https://www.tutorialspoint.com/operating_system/index.htm) 
