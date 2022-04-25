@@ -12,7 +12,7 @@ Information Technology
 
 
 There are some vital courses:
-1. information security
+1. Cybersecurity
 3. Software Engineering
 4. web developer
 5. Data Structure & Algorithms
