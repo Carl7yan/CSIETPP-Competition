@@ -12,11 +12,11 @@ Information Technology
 
 
 There are some vital courses:
-1. Computer Networks
+1. information security
 3. Software Engineering
 4. web developer
 5. Data Structure & Algorithms
-6. information security
+6. Computer Networks
 7. Database Management
 8. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
 10. [Python](https://www.tutorialspoint.com/python/index.htm)
