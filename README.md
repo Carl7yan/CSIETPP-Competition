@@ -22,5 +22,5 @@ There are some vital courses:
 9. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
 10. [Python](https://www.tutorialspoint.com/python/index.htm)
 11. Unix/Linux: [[1](https://www.tutorialspoint.com/unix/index.htm)],[[2](https://ryanstutorials.net/linuxtutorial/)]
-12. [Windows 10](https://www.tutorialspoint.com/batch_script/index.htm)
+12. [Batch Script](https://www.tutorialspoint.com/batch_script/index.htm)
 13. Operating System:[[1](https://www.tutorialspoint.com/operating_system/index.htm)]
